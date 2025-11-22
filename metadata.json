@@ -1,0 +1,8 @@
+{
+  "name": "Hexin 的生活空间",
+  "description": "A personalized, lively, and editable personal dashboard featuring study notes, social feed, gallery, and growth tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
